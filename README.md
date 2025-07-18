@@ -31,10 +31,9 @@ Once we understood the data, we trained a Random Forest Classifier — a popular
 # Files in This Project
 
 | File Name                      | What's Inside                             |
-|------------------------------ -|-------------------------------------------|
+|--------------------------------|-------------------------------------------|
 | heart.csv                      | The health data used for prediction       |
 | heart_disease_prediction.ipynb | Main notebook with full code              |
-| model_task.ipynb               | Task-based or shorter version             |
 | README.md                      | This file that you're reading now         |
 | pie_chart.png                  | Saved image of the pie chart              |
 | bar_chart.png                  | Saved image of the bar chart              |
@@ -49,7 +48,7 @@ Once we understood the data, we trained a Random Forest Classifier — a popular
 - NumPy (for number crunching)
 - Matplotlib and Seaborn (for charts and graphs)
 - Scikit-learn (for building the ML model)
-- installed jupyter (.ipynb) 
+- jupyter (.ipynb) 
 
 ---
 
